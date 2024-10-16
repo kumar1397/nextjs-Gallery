@@ -11,8 +11,7 @@ const products = [
   { name: 'Klope', price: '$320.5', imageUrl: 'image-url-8' },
   { name: 'Cody', price: '$615.5', imageUrl: 'image-url-9' },
 ];
-
-const ProductCatalog = () => {
+export default function HomePage(){
   return (
     <div className="w-full">
       <header className="bg-gray-100 py-6">
@@ -70,4 +69,4 @@ const ProductCatalog = () => {
   );
 };
 
-export default ProductCatalog;
+
