@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Colmar",
+      "price": 215,
+      "imageUrl": "/path/to/image1.jpg",
+      "details": "Comfortable chair with soft cushions and wooden legs."
+    },
+    {
+      "id": 2,
+      "name": "Bay",
+      "price": 189,
+      "imageUrl": "/path/to/image2.jpg",
+      "details": "Modern chair with a minimalist design and steel frame."
+    },
+    {
+      "id": 3,
+      "name": "Aspen",
+      "price": 310,
+      "imageUrl": "/path/to/image3.jpg",
+      "details": "Elegant chair with a classic design and high-quality materials."
+    }
+  ]
+  
